@@ -53,5 +53,5 @@ Vaksinfo juga dilengkapi dengan fitur yang bisa digunakan oleh user untuk menyam
 - **Masyarakat**
     - Melihat konten website
 ---
-## HerokuApp :
-[Click Here!](https://vaksinfo.herokuapp.com/)
+## Download Link:
+[Click Here!](https://drive.google.com/drive/folders/1pqjNwcK2jCj8TKNE8UDA7w7JD4H3NLa4?usp=sharing)
