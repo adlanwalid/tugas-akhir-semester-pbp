@@ -36,22 +36,6 @@ Vaksinfo juga dilengkapi dengan fitur yang bisa digunakan oleh user untuk menyam
 - Statistik
 - Masukan User (kritik, saran, pertanyaan)
 ---
-## Persona :
-- **Admin**
-    - Mengatur database dari website.
-    - Melakukan perubahan dan pembaruan fitur pada website
-    - Melihat konten website
-- **Pemerintah**
-    - Memberikan statistik COVID-19 di Indonesia (kasus baru, kematian, vaksinasi, dll)
-    - Melihat konten website
-- **Fasilitas kesehatan**
-    - Memberikan informasi ketersediaan vaksin serta jenisnya
-    - Melihat konten website
-- **Perusahaan Media**
-    - Menyediakan berita seputar COVID-19 di Indonesia
-    - Melihat konten website
-- **Masyarakat**
-    - Melihat konten website
----
+
 ## Download Link:
 [Click Here!](https://drive.google.com/drive/folders/1pqjNwcK2jCj8TKNE8UDA7w7JD4H3NLa4?usp=sharing)
