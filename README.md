@@ -29,7 +29,7 @@ Vaksinfo juga dilengkapi dengan fitur yang bisa digunakan oleh user untuk menyam
 
 ## Daftar Modul :
 - Beranda
-- User Login
+- User Login\
 Pada modul ini kami akan membuat login form menggunakan form yang terdapat pada flutter. Selain itu, pada modul ini kami juga akan menggunakan pemanggilan asynchronous HTTP get untuk memvalidasi akun user yang dimasukkan pada form login. Kami akan mengintegrasikan webapp yang kami buat dengan aplikasi yang akan kami buat dengan membuat suatu views pada webapp kami agar aplikasi dapat mengirim data ke webapp lalu akan diproses oleh views yang terdapat pada webapp dan melakukan validasi terhadap user yang masuk.
 - Artikel (Berita dan tips & tricks)
 - Info Lokasi Vaksin
