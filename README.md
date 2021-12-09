@@ -28,7 +28,7 @@ Vaksinfo juga dilengkapi dengan fitur yang bisa digunakan oleh user untuk menyam
 ---
 
 ## Daftar Modul :
-- Beranda
+- Beranda\
 Pada modul beranda, kami akan membuat suatu layout yang terdiri atas widget _drawer_ beserta _list_ menunya, _slider_ (untuk menampilkan gambar highlight berita/artikel), beserta kumpulan _input form_ untuk keperluan fitur feedback. Pada fitur _feedback_ ini, _user_ yang dapat mengisi _feedback_ adalah _user_ yang telah melakukan _login_.  Sehingga, membaca data dari database Django apakah _user_ sudah terdaftar sebagai user yang sudah _login_ atau belum.
 
 - User Login\
