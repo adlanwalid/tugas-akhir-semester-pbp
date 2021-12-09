@@ -38,7 +38,8 @@ Pada modul ini kami akan membuat login form menggunakan form yang terdapat pada 
 - **Info Lokasi Vaksin**
 - **Info Vaksin di Indonesia**
 - **Statistik**
-- **Masukan User (kritik, saran, pertanyaan)**
+- **Tanya Jawab**
+Pada modul tanya jawab, kami akan menampilkan jawaban terkait pertanyaan-pertanyaan umum seputar informasi vaksinasi. Pada modul ini akan membuat layout yang terdiri atas widget expansion panel untuk menyimpan pertanyaan dan jawabannya. Selain itu, modul ini juga memiliki widget form untuk input pertanyaan dari user yang telah login.
 ---
 
 ## Download Link:
