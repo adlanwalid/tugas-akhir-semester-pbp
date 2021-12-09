@@ -36,9 +36,10 @@ Pada modul ini kami akan membuat login form menggunakan form yang terdapat pada 
 
 - **Artikel (Berita dan tips & tricks)**
 - **Info Lokasi Vaksin**
-- **Info Vaksin di Indonesia**
+- **Info Vaksin di Indonesia**\
+Pada modul Info Vaksin, kami akan menampilkan info-info vaksin yang ada di Indonesia. Informasi tiap vaksin disimpan pada text JSON di webapp vaksinfo. Kami akan mengintegrasikan webapp yang kami buat dengan cara melakukan pemanggilan Asynchronus JSON menggunakan flutter untuk menampilkan informasi tersebut. Pada modul ini kami juga akan membuat form yang dapat digunakan user untuk memberikan komen tentang vaksin yang suda diambil.
 - **Statistik**
-- **Tanya Jawab**
+- **Tanya Jawab**\
 Pada modul tanya jawab, kami akan menampilkan jawaban terkait pertanyaan-pertanyaan umum seputar informasi vaksinasi. Pada modul ini akan membuat layout yang terdiri atas widget expansion panel untuk menyimpan pertanyaan dan jawabannya. Selain itu, modul ini juga memiliki widget form untuk input pertanyaan dari user yang telah login.
 ---
 
